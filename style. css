@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <title>Jelajah Nusantara</title>
+</head>
+
+<body bgcolor="#F1F4F8">
+
+    <center>
+        <h1>Jelajah Nusantara</h1>
+        <p>Menjelajahi Keindahan Alam Indonesia</p>
+    </center>
+
+    <hr>
+    <nav>
+    <center>
+        <a href="#beranda">Beranda</a> |
+        <a href="#destinasi">Destinasi</a> |
+        <a href="#perbandingan">Perbandingan</a> |
+        <a href="#tips">Tips Wisata</a> |
+        <a href="#kontak">Kontak</a>
+    </center>
+    </nav>
+    <hr>
+
+    <table width="100%" border="0" cellpadding="10">
+        <tr>
+
+            <td width="30%" valign="top" bgcolor="#DCE8F5">
+
+                <h2>Informasi Tambahan</h2>
+
+                <h3>Tentang Kami</h3>
+                <p>
+                    Jelajah Nusantara merupakan halaman informasi
+                    yang memperkenalkan keindahan alam Indonesia.
+                </p>
+
+                <h3>Daftar Destinasi</h3>
+                <ul>
+                    <li><a href="#bromo">Gunung Bromo</a></li>
+                    <li><a href="#toba">Danau Toba</a></li>
+                    <li><a href="#rajaampat">Raja Ampat</a></li>
+                </ul>
+
+                <h3>Tips Singkat</h3>
+                <ul>
+                    <li>Jaga kebersihan lingkungan.</li>
+                    <li>Bawa perlengkapan secukupnya.</li>
+                    <li>Patuhi aturan wisata.</li>
+                    <li>Utamakan keselamatan.</li>
+                </ul>
+
+                <h3>Informasi Pariwisata</h3>
+                <p>
+                    <a href="https://www.indonesia.travel/"
+                       target="_blank">
+                        Portal Pariwisata Indonesia
+                    </a>
+                </p>
+
+            </td>
+
+            <td width="70%" valign="top" bgcolor="white">
+
+                <h2 id="beranda">Selamat Datang di Jelajah Nusantara</h2>
+
+                <p>
+                    Indonesia memiliki keindahan alam yang luar biasa,
+                    mulai dari pegunungan, danau, hingga kepulauan
+                    dengan pemandangan bawah laut yang menakjubkan.
+                </p>
+
+                <p>
+                    Mari mengenal tiga destinasi wisata alam Indonesia,
+                    yaitu Gunung Bromo, Danau Toba, dan Raja Ampat.
+                </p>
+
+                <hr>
+
+                <h2 id="destinasi">Destinasi Wisata Alam Indonesia</h2>
+
+                <h3 id="bromo">1. Gunung Bromo</h3>
+
+                <img
+                    src="https://commons.wikimedia.org/wiki/Special:FilePath/Mount_Bromo.jpg"
+                    alt="Gunung Bromo"
+                    width="400">
+
+                <p>
+                    Gunung Bromo merupakan destinasi wisata terkenal
+                    di Jawa Timur. Tempat ini memiliki pemandangan
+                    pegunungan, lautan pasir, dan matahari terbit.
+                </p>
+
+                <p><b>Lokasi:</b> Jawa Timur, Indonesia.</p>
+
+                <p>
+                    Sumber gambar:
+                    <a href="https://commons.wikimedia.org/wiki/File:Mount_Bromo.jpg"
+                       target="_blank">
+                        Wikimedia Commons
+                    </a>
+                </p>
+
+                <p>
+                    Lisensi:
+                    <a href="https://creativecommons.org/licenses/by-sa/3.0/"
+                       target="_blank">
+                        CC BY-SA 3.0
+                    </a>
+                </p>
+
+                <hr>
+
+                <h3 id="toba">2. Danau Toba</h3>
+
+                <img
+                    src="https://commons.wikimedia.org/wiki/Special:FilePath/Lake_Toba_and_the_surrounding_hills.jpg"
+                    alt="Danau Toba"
+                    width="400">
+
+                <p>
+                    Danau Toba merupakan danau vulkanik yang terletak
+                    di Sumatera Utara. Danau ini terkenal dengan
+                    pemandangan air yang luas dan perbukitan.
+                </p>
+
+                <p><b>Lokasi:</b> Sumatera Utara, Indonesia.</p>
+
+                <p>
+                    Sumber gambar:
+                    <a href="https://commons.wikimedia.org/wiki/File:Lake_Toba_and_the_surrounding_hills.jpg"
+                       target="_blank">
+                        Wikimedia Commons
+                    </a>
+                </p>
+
+                <p>
+                    Lisensi:
+                    <a href="https://creativecommons.org/licenses/by-sa/4.0/"
+                       target="_blank">
+                        CC BY-SA 4.0
+                    </a>
+                </p>
+
+                <hr>
+
+                <h3 id="rajaampat">3. Raja Ampat</h3>
+
+                <img
+                    src="https://commons.wikimedia.org/wiki/Special:FilePath/Raja_Ampat_%2823852186934%29.jpg"
+                    alt="Raja Ampat"
+                    width="400">
+
+                <p>
+                    Raja Ampat merupakan kawasan kepulauan di Papua
+                    Barat Daya yang terkenal dengan laut jernih,
+                    gugusan pulau, dan terumbu karang.
+                </p>
+
+                <p><b>Lokasi:</b> Papua Barat Daya, Indonesia.</p>
+
+                <p>
+                    Sumber gambar:
+                    <a href="https://commons.wikimedia.org/wiki/File:Raja_Ampat_%2823852186934%29.jpg"
+                       target="_blank">
+                        Wikimedia Commons
+                    </a>
+                </p>
+
+                <p>
+                    Lisensi:
+                    <a href="https://creativecommons.org/licenses/by/2.0/"
+                       target="_blank">
+                        CC BY 2.0
+                    </a>
+                </p>
+
+                <hr>
+
+                <h2 id="perbandingan">Tabel Perbandingan Destinasi Wisata</h2>
+
+                <table border="1" cellpadding="8" width="100%">
+                    <tr bgcolor="#DCE8F5">
+                        <th>No.</th>
+                        <th>Destinasi</th>
+                        <th>Lokasi</th>
+                        <th>Daya Tarik</th>
+                    </tr>
+
+                    <tr>
+                        <td>1</td>
+                        <td>Gunung Bromo</td>
+                        <td>Jawa Timur</td>
+                        <td>Gunung dan matahari terbit</td>
+                    </tr>
+
+                    <tr>
+                        <td>2</td>
+                        <td>Danau Toba</td>
+                        <td>Sumatera Utara</td>
+                        <td>Danau dan perbukitan</td>
+                    </tr>
+
+                    <tr>
+                        <td>3</td>
+                        <td>Raja Ampat</td>
+                        <td>Papua Barat Daya</td>
+                        <td>Kepulauan dan terumbu karang</td>
+                    </tr>
+                </table>
+
+                <hr>
+
+                <h2 id="tips">Tips Menjelajahi Alam</h2>
+
+                <ol>
+                    <li>Rencanakan perjalanan sebelum berangkat.</li>
+                    <li>Jaga kebersihan lingkungan.</li>
+                    <li>Utamakan keselamatan selama perjalanan.</li>
+                    <li>Hormati masyarakat dan budaya setempat.</li>
+                </ol>
+
+                <h3>Daftar Perlengkapan yang Perlu Dibawa</h3>
+
+                <ul>
+                    <li>Air minum.</li>
+                    <li>Makanan secukupnya.</li>
+                    <li>Pakaian yang sesuai.</li>
+                    <li>Sepatu atau sandal.</li>
+                    <li>Obat-obatan pribadi.</li>
+                    <li>Telepon genggam.</li>
+                    <li>Pelindung dari sinar matahari.</li>
+                    <li>Kantong sampah.</li>
+                </ul>
+
+                <hr>
+
+                <h2>Tanya Jawab Wisata Alam</h2>
+
+                <h3>1. Kapan waktu yang tepat untuk berwisata?</h3>
+                <p>
+                    Waktu terbaik bergantung pada destinasi dan cuaca.
+                    Periksa informasi cuaca sebelum berangkat.
+                </p>
+
+                <h3>2. Bagaimana cara menjaga alam?</h3>
+                <p>
+                    Tidak membuang sampah sembarangan dan tidak
+                    merusak lingkungan sekitar.
+                </p>
+
+                <h3>3. Apakah perlu membawa perlengkapan khusus?</h3>
+                <p>
+                    Ya, perlengkapan harus disesuaikan dengan tujuan
+                    dan kegiatan wisata.
+                </p>
+
+                <hr>
+
+                <h2 id="kontak">Kirim Pesan kepada Kami</h2>
+
+                <form action="#" method="post">
+
+                    <p>
+                        <label for="nama">Nama Lengkap:</label><br>
+                        <input type="text" id="nama" name="nama"
+                               required>
+                    </p>
+
+                    <p>
+                        <label for="email">Alamat Email:</label><br>
+                        <input type="email" id="email" name="email"
+                               required>
+                    </p>
+
+                    <p>
+                        <label for="pilihan">Pilihan Destinasi:</label><br>
+
+                        <select id="pilihan" name="destinasi" required>
+                            <option value="">Pilih Destinasi</option>
+                            <option value="Gunung Bromo">Gunung Bromo</option>
+                            <option value="Danau Toba">Danau Toba</option>
+                            <option value="Raja Ampat">Raja Ampat</option>
+                        </select>
+                    </p>
+
+                    <p>
+                        <label for="pesan">Pesan:</label><br>
+                        <textarea id="pesan" name="pesan"
+                                  rows="5" cols="40"
+                                  required></textarea>
+                    </p>
+
+                    <input type="submit" value="Kirim">
+                    <input type="reset" value="Reset">
+
+                </form>
+
+            </td>
+        </tr>
+    </table>
+
+    <hr>
+
+    <center>
+        <footer>
+            <p>
+                <b>&copy; 2026 Jelajah Nusantara</b>
+            </p>
+
+            <p>
+                Jelajahi alam Indonesia dan jaga keindahannya.
+            </p>
+
+            <p>
+                <a href="https://www.indonesia.travel/"
+                   target="_blank">
+                    Portal Pariwisata Indonesia
+                </a>
+            </p>
+        </footer>
+    </center>
+
+</body>
+</html>
